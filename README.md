@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi there, I'm Sabry Mohamed 👋
 
-<!--
-**SabryMohamedSabry13/SabryMohamedSabry13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+🎓 Fresh Graduate in Mechatronics Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about Embedded Systems, Robotics, IoT, and Automation.
+
+🌱 Currently improving my skills in Embedded Software, ESP32, AVR, PLC, MATLAB/Simulink, and Revit MEP.
+
+🎯 My goal is to build intelligent systems that solve real-world engineering problems.
+
+---
+
+## 🛠️ Technical Skills
+
+- Embedded C
+- C Programming
+- Python
+- ESP32
+- AVR Microcontrollers
+- Arduino
+- PLC
+- MATLAB / Simulink
+- IoT
+- Robotics
+- Control Systems
+- AutoCAD
+- Revit MEP
+
+---
+
+## 📂 Featured Projects
+
+- 🤖 Autonomous Human-Following Mobile Robot
+- 🚗 Self-Driving RC Car with Adaptive Cruise Control
+- ⚡ Single-Phase DC-AC Inverter
+- 🚘 Steering-by-Wire System
+- 🌐 IoT Applications
+- ⚙️ PLC Automation Projects
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn
+- GitHub
+- Email
+
+Thanks for visiting my profile!الخطوة 2: افتح ملف README.md
+
+اضغط على README.md ثم Edit (علامة القلم)
