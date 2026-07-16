@@ -43,10 +43,6 @@
 
 ## 📫 Connect with Me
 
-- LinkedIn
-- GitHub
-- Email
-
-Thanks for visiting my profile!الخطوة 2: افتح ملف README.md
-
-اضغط على README.md ثم Edit (علامة القلم)
+- www.linkedin.com/in/sabry-mohamed-94b395286
+- [GitHub](https://github.com/SabryMohamedSabry13/SabryMohamedSabry13)
+- Email : SabryMohamedSabry13
